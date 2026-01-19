@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f78c301c.css",
+    "main.js": "/static/js/main.ca010a4c.js",
+    "static/js/488.f30ea4ab.chunk.js": "/static/js/488.f30ea4ab.chunk.js",
+    "static/media/Abdallah A Resume.pdf": "/static/media/Abdallah A Resume.736e4fa14dedf3d43fbb.pdf",
+    "static/media/MyPic2.jpg": "/static/media/MyPic2.f4e2a460321a7086230c.jpg",
+    "static/media/MyPic.jpeg": "/static/media/MyPic.1b16101d3a2a97a9c1c8.jpeg",
+    "index.html": "/index.html",
+    "main.f78c301c.css.map": "/static/css/main.f78c301c.css.map",
+    "main.ca010a4c.js.map": "/static/js/main.ca010a4c.js.map",
+    "488.f30ea4ab.chunk.js.map": "/static/js/488.f30ea4ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f78c301c.css",
+    "static/js/main.ca010a4c.js"
+  ]
+}
